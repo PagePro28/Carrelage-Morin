@@ -1,0 +1,7 @@
+h1 {
+    color: rgb(81, 44, 168);
+}
+body{
+    background: #022be0;
+background: radial-gradient(circle,rgba(2, 43, 224, 0.58) 0%, rgba(70, 252, 176, 1) 100%);
+}
